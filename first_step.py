@@ -1,1 +1,1 @@
-print ("Hello, shhhsshhss!") #быстрая отправка
+print ("Hello, shhhsshhss!") #быстрая отправка1
